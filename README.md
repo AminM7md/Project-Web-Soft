@@ -4,7 +4,7 @@ Welcome to Team 4! This repository is dedicated to our collaborative efforts in 
 
 ## Project Overview
 
-Our project is a website designed to [insert brief description of the website and its purpose].
+Our project is a website designed to [BMW].
 
 ## Team Members
 
@@ -37,13 +37,8 @@ To get started with our project, follow these steps:
 
 [Include any additional setup instructions or dependencies if necessary.]
 
-## Contributing
 
-If you'd like to contribute to our project, please follow our [contribution guidelines].
 
-## License
-
-This project is licensed under the [insert license type]. See the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
